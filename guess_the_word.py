@@ -5,7 +5,7 @@
 import random
 
 # Picks a random car brand from the list.
-car_brands = ["Toyota", "Lexus", "Honda", "Mazda", "Tesla"]
+car_brands = ["Toyota", "Lexus", "Honda", "Mazda", "Tesla", "Nissan"]
 chosen_brand = random.choice(car_brands)
 
 # Tile and instructions to the game.

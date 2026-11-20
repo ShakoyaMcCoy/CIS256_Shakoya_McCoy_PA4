@@ -23,5 +23,6 @@ def test_correct_guess():
 
 # Check if incorrect letters are recognized.
 def test_incorrect_guess():
-    chosen_brand = "Toyota"
-    assert "z" not in chosen_brand.lower()
+    chosen_brand = "Nissan"
+    assert "q" not in chosen_brand.lower()
+    assert "f" not in chosen_brand.lower()
