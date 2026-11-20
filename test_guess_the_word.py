@@ -5,7 +5,7 @@
 
 import random
 
-car_brands = ["Toyota", "Lexus", "Honda", "Mazda", "Tesla"]
+car_brands = ["Toyota", "Lexus", "Honda", "Mazda", "Tesla", "Nissan"]
 
 
 # Check that a random car brand comes from the list.
