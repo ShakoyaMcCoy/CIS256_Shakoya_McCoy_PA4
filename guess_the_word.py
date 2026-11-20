@@ -11,10 +11,10 @@ chosen_brand = random.choice(car_brands)
 # Tile and instructions to the game.
 
 print("                 Reveal the Car Brand                       ")
-print("Guess one letter at a time. You have 10 attempts. Good luck!")
+print("Guess one letter at a time. You have 15 attempts. Good luck!")
 
 # Creates the amount of attempts the users has.
-attempts = 10
+attempts = 15
 
 letters_guessed = [] 
 
